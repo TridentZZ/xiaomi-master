@@ -1,6 +1,6 @@
 ﻿#仿小米官网   
 
-点击预览
+#点击预览
 
 https://tridentzz.github.io/xiaomi-master/
 
